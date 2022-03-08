@@ -8,6 +8,12 @@ cd the-betta-fish-of-siam-system
 npm install
 ```
 
+## How to update gitmodules
+
+```bash
+git submodule update --remote
+```
+
 ## How to develop
 
 - nestjs
