@@ -1,5 +1,13 @@
 # the-betta-fish-of-siam-system# ระบบขายปลากัด The Betta Fish Of Siam 🐠
 
+## How to clone
+
+```bash
+git clone --recurse-submodules https://github.com/aef-nattanon/the-betta-fish-of-siam-system.git
+cd the-betta-fish-of-siam-system
+npm install
+```
+
 ## How to develop
 
 - nestjs
